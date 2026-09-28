@@ -16,8 +16,14 @@ A simple STM32 GPIO project using an STM32F103C8T6 Blue Pill.
 - STM32CubeMX
 - STM32 HAL Library
 
+## Demo
+[Demo Video](media/demo.mp4)
 
 ## GPIO Configuration
+
+### Hardware Setup
+![Hardware Setup](media/setup.jpeg)
+
 
 ### Button
 
